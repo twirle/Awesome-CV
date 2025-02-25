@@ -1,0 +1,24 @@
+# Fdb version 4
+["pdflatex"] 1739637999.72353 "h:/OneDrive - Ngee Ann Polytechnic/Works/Awesome-CV/examples/resume.tex" "resume.pdf" "resume" 1739638000.31596 2
+  "C:/Users/Shin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1739636260 419126 748283c5d9a616baa36139d0027c94d9 ""
+  "C:/Users/Shin/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1739637959 11548 3a35f8c2244d905e13e9b2b448bb18bf ""
+  "C:/Users/Shin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1739636268 12017311 75ae6ab42c67114ef51a92bb37305deb ""
+  "C:/Users/Shin/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
+  "C:/Users/Shin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/Shin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/Shin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/Shin/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "awesome-cv.cls" 1739472890 17 f892d761743de59d7f5e7b4d4accd528 ""
+  "h:/OneDrive - Ngee Ann Polytechnic/Works/Awesome-CV/examples/resume.tex" 1739637998 3909 1112dacc207c4cc2af0f3264ddb380d7 ""
+  "resume.aux" 1739638000 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.tex" 1739637998 3909 1112dacc207c4cc2af0f3264ddb380d7 ""
+  "resume/certificates.tex" 1739472890 1999 7b60f8494740a075f03c32ede2c0ac44 ""
+  "resume/education.tex" 1739472890 946 579c56d0fa74eddd83f242c106d227f6 ""
+  "resume/experience.tex" 1739472890 8690 15ac4b4e06cdf9460e193e72ab02684c ""
+  "resume/honors.tex" 1739472890 4579 259d36e28b0c778f43cc5600c05cae7a ""
+  "resume/summary.tex" 1739472890 1271 e440719428e817ec4260921d40ecade8 ""
+  (generated)
+  "resume.aux"
+  "resume.log"
+  "resume.pdf"
+  (rewritten before read)
