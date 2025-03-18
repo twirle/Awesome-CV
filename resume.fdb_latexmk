@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1740481462.27567 "h:/OneDrive - Ngee Ann Polytechnic/Works/Awesome-CV/resume.tex" "resume.pdf" "resume" 1740481462.71118 2
+["pdflatex"] 1742298106.57233 "h:/OneDrive - Ngee Ann Polytechnic/Works/Awesome-CV/resume.tex" "resume.pdf" "resume" 1742298107.08661 2
   "C:/Users/Shin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1739636268 12017311 75ae6ab42c67114ef51a92bb37305deb ""
   "C:/Users/Shin/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "C:/Users/Shin/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty" 1734114575 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
@@ -29,9 +29,9 @@
   "C:/Users/Shin/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Shin/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448274436 5689 1bfa68243e89a54479e7d0580773c57e ""
   "awesome-cv-print.cls" 1739633182 27264 6bb323246225dbf4ed7396f2ce92c737 ""
-  "h:/OneDrive - Ngee Ann Polytechnic/Works/Awesome-CV/resume.tex" 1739653608 3911 b9a07e71812bd887f7a2e93e0ea59dad ""
-  "resume.aux" 0 -1 0 "pdflatex"
-  "resume.tex" 1739653608 3911 b9a07e71812bd887f7a2e93e0ea59dad ""
+  "h:/OneDrive - Ngee Ann Polytechnic/Works/Awesome-CV/resume.tex" 1742296614 3931 644cb7888c24c1e2236fc741148d576c ""
+  "resume.aux" 1742298106 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.tex" 1742296614 3931 644cb7888c24c1e2236fc741148d576c ""
   (generated)
   "resume.aux"
   "resume.log"
